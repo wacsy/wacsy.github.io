@@ -4,3 +4,8 @@ _site/
 .idea
 *.swp
 .Trashes
+bin/
+lib/
+lib64/
+include/
+.jekyll-cache/
